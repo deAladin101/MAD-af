@@ -5,10 +5,11 @@
       <map>
         <entry key="..\:/Android/MAD_Navi/app/src/main/res/drawable/selector.xml" value="0.159375" />
         <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_call.xml" value="0.20989583333333334" />
+        <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_call_videocall.xml" value="0.27447916666666666" />
         <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_chat.xml" value="0.20989583333333334" />
-        <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_profile.xml" value="0.20989583333333334" />
-        <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_shop.xml" value="0.20989583333333334" />
+        <entry key="..\:/Android/MAD_Navi/app/src/main/res/layout/activity_shop.xml" value="0.152" />
         <entry key="..\:/Android/MAD_Navi/app/src/main/res/menu/menu_navigation.xml" value="0.1" />
       </map>
     </option>
