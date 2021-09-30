@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299256417346",
+    "project_id": "mad-call",
+    "storage_bucket": "mad-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299256417346:android:cb0bf6323ecd363ecf31db",
+        "android_client_info": {
+          "package_name": "com.example.madcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299256417346-2tkceqcqqcq51fkh4mufn6ksia61n65k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOref3H7woow8IoSr__Ln6ssl1DXZc3PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299256417346-2tkceqcqqcq51fkh4mufn6ksia61n65k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
